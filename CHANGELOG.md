@@ -1,3 +1,7 @@
+## 1.5.3 - 08.12.2021
+* Android: allow download 307 and 308 redirects
+* Android: commits from v1.6.1
+
 ## 1.5.2 - 25.10.2020
 
 * Android: fix bug notification stuck in processing
